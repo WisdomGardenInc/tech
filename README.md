@@ -2,7 +2,7 @@
 
 ## 关于 WisdomGarden
 
-http://www.wisdomgarden.com.cn/
+https://www.wisdomgarden.com.cn/
 
 ### 愿景
 打造世界级教育软件平台，成为学校最信赖的教育信息化合作伙伴
